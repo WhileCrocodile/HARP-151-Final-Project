@@ -1,0 +1,5 @@
+Type of Transport,Time to Reach Campus (minutes)
+Walking,23
+Bicycle,8 
+Bus,17
+Car,6
