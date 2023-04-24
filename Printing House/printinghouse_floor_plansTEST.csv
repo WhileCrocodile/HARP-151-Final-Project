@@ -1,0 +1,26 @@
+NAME,BED,BATH,RENTSQ FT
+"ROOM TYPE *
+  Private","RENT *
+  $1059","BEDS / BATHS
+2 bd / 2 ba","SQ. FT. **
+1,320"
+"ROOM TYPE *
+  Shared Bath-98 sq.ft.",BEDS,"BATHS
+3 bd","RENT *
+  $965","SQ. FT. **
+887"
+"ROOM TYPE *
+  Private",BEDS,"BATHS
+5 bd","RENT *
+  $945","SQ. FT. **
+6,580"
+"ROOM TYPE *
+  Private",BEDS,"BATHS
+5 bd","RENT *
+  $982","SQ. FT. **
+2,500"
+"ROOM TYPE *
+  Private",BEDS,"BATHS
+6 bd","RENT *
+  $1020","SQ. FT. **
+3,600"
