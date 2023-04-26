@@ -1,2 +1,0 @@
-All of the code was written in Jupyter Notebook.  The folders were used to store the code we used to scrape sites and the csvs from the scraping.
-The main file that runs the project is the "Tkinter GUI" file.
